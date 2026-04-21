@@ -9,7 +9,7 @@ The goal is to evaluate how tax money is collected, allocated, and distributed a
 
 1. Objectives
 - Identify major sector-wise spending priorities in BC
-- Analyze revenue vs expenditure growth trends (2016–2025)
+- Analyze revenue vs expenditure growth trends (2016-2025)
 - Study per-capita taxation and government spending patterns
 - Evaluate funding structure (provincial vs non-provincial sources)
 - Assess long-term fiscal sustainability and deficit trends
@@ -26,7 +26,7 @@ The goal is to evaluate how tax money is collected, allocated, and distributed a
 3. Data Sources
 - Government of British Columbia - Annual Financial Reports (2016–2025)
 - BC Budget and Public Accounts
-- Statistics Canada — Population Estimates
+- Statistics Canada - Population Estimates
 - BC Ministry Financial Statements
 - Open Government Data Portal (BC)
 
@@ -40,16 +40,15 @@ The goal is to evaluate how tax money is collected, allocated, and distributed a
 - Visualization of long-term fiscal trends
 
 5. Key Metrics
-Metric			2016	2025
-Total Revenue	$47.6B	$84.0B
-Total Expense	$46.8B	$91.3B
-Tax/person/day	$14		$24
-Spend/pers/day	$26		$44
-Population		4.9M	5.7M
+Metric			2016 to	2025
+Total Revenue	$47.6B to	$84.0B
+Total Expense	$46.8B to	$91.3B
+Tax/person/day	$14	to	$24
+Spend/pers/day	$26	to	$44
+Population		4.9M	to 5.7M
 
 6. Conclusion
 The analysis shows that British Columbia’s fiscal system is heavily centered on healthcare and education, but expenditure growth has consistently outpaced revenue growth over the last decade. This has led to increasing per-capita fiscal pressure and a widening structural deficit, raising long-term sustainability concerns.
-
 The project highlights the importance of public financial transparency and the value of accessible open data in understanding government spending behavior.
 
 7. References
