@@ -7,14 +7,14 @@ This project analyzes provincial revenue and expenditure patterns in British Col
 
 The goal is to evaluate how tax money is collected, allocated, and distributed across key public sectors such as Health, Education, and Social Services, and to assess long-term fiscal sustainability.
 
-1. Objectives
+1. Objectives:
 - Identify major sector-wise spending priorities in BC
 - Analyze revenue vs expenditure growth trends (2016-2025)
 - Study per-capita taxation and government spending patterns
 - Evaluate funding structure (provincial vs non-provincial sources)
 - Assess long-term fiscal sustainability and deficit trends
 
-2. Key Insights
+2. Key Insights:
 - Health (~42%) and Education (~22%) dominate provincial spending (~64% combined)
 - Total expenditure growth (~106%) outpaced revenue growth (~76.5%)
 - Per-capita government spending increased from $26/day → $44/day
@@ -23,14 +23,14 @@ The goal is to evaluate how tax money is collected, allocated, and distributed a
 - Administrative costs per person nearly doubled over the decade
 - A widening fiscal gap has led to a ~$9B deficit in 2025
 
-3. Data Sources
+3. Data Sources:
 - Government of British Columbia - Annual Financial Reports (2016–2025)
 - BC Budget and Public Accounts
 - Statistics Canada - Population Estimates
 - BC Ministry Financial Statements
 - Open Government Data Portal (BC)
 
-4. Methodology
+4. Methodology:
 - Data extraction from official government reports
 - Cleaning and normalization using Microsoft Excel
 - Standardization of financial units ($Millions / $Billions)
@@ -39,20 +39,20 @@ The goal is to evaluate how tax money is collected, allocated, and distributed a
 - Sector-wise funding decomposition
 - Visualization of long-term fiscal trends
 
-5. Key Metrics
-Metric			2016 to	2025
-Total Revenue	$47.6B to	$84.0B
-Total Expense	$46.8B to	$91.3B
-Tax/person/day	$14	to	$24
-Spend/pers/day	$26	to	$44
-Population		4.9M	to 5.7M
+5. Key Metrics:
+  Metric			2016 to	2025
+- Total Revenue	$47.6B to	$84.0B
+- Total Expense	$46.8B to	$91.3B
+- Tax/person/day	$14	to	$24
+- Spend/pers/day	$26	to	$44
+- Population		4.9M	to 5.7M
 
-6. Conclusion
+6. Conclusion:
 The analysis shows that British Columbia’s fiscal system is heavily centered on healthcare and education, but expenditure growth has consistently outpaced revenue growth over the last decade. This has led to increasing per-capita fiscal pressure and a widening structural deficit, raising long-term sustainability concerns.
 The project highlights the importance of public financial transparency and the value of accessible open data in understanding government spending behavior.
 
-7. References
-Government of British Columbia Public Accounts
-BC Budget 2025 Financial Reports
-Statistics Canada Population Data
-Open Government Data Portal (BC)
+7. References:
+- Government of British Columbia Public Accounts
+- BC Budget 2025 Financial Reports
+- Statistics Canada Population Data
+- Open Government Data Portal (BC)
